@@ -1,2 +1,1 @@
-# number-sorter
-Created a number sorter for Bad Website Club's bootcamp
+Created a number sorter for Bad Website Club's bootcamp using [freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-algorithmic-thinking-by-building-a-number-sorter/step-1).
